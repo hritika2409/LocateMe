@@ -1,11 +1,15 @@
 locate-me/
-  ├── public/
-  ├── src/
-  │   ├── App.jsx
-  │   ├── App.css
-  │   └── ...
-  ├── package.json
-  └── README.md
+├── public/
+├── src/
+│   ├── components/        # Reusable UI components
+│   ├── pages/             # Main views/pages
+│   ├── images/            # Screenshots and logos
+│   ├── videos/            # Demo video
+│   ├── App.jsx
+│   ├── App.css
+│   └── ...
+├── package.json
+└── README.md
 
 <p align="center">
   <img src="./locate-me/src/images/3.png" alt="LocateMe Logo" width="120" />
