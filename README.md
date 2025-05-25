@@ -45,7 +45,7 @@ locate-me/
 <p align="center">
   <img src="./locate-me/src/videos/Untitled video - Made with Clipchamp (1).gif" alt="LocateMe Demo" width="700"/>
 </p>
----
+
 
 ## 📝 Description
 
