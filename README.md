@@ -1,3 +1,10 @@
+<h1 align="center">LocateMe 🌍</h1>
+<p align="center">
+  <b>Discover, connect, and collaborate with top talents near you!</b><br>
+  <i>Find professionals, creatives, and innovators in your city with an interactive map and beautiful profiles.</i>
+</p>
+
+
 locate-me/
 ├── public/
 ├── src/
@@ -10,14 +17,6 @@ locate-me/
 │   └── ...
 ├── package.json
 └── README.md
-
-
-<h1 align="center">LocateMe 🌍</h1>
-<p align="center">
-  <b>Discover, connect, and collaborate with top talents near you!</b><br>
-  <i>Find professionals, creatives, and innovators in your city with an interactive map and beautiful profiles.</i>
-</p>
-
 
 ---
 
