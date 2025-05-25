@@ -6,18 +6,17 @@
 
 
 locate-me/
-├── public/
-├── src/
-│   ├── components/        # Reusable UI components
-│   ├── pages/             # Main views/pages
-│   ├── images/            # Screenshots and logos
-│   ├── videos/            # Demo video
-│   ├── App.jsx
-│   ├── App.css
-│   └── ...
+├── public/ # Static assets
+├── src/ # Main source code
+│ ├── components/ # Reusable UI components
+│ ├── pages/ # Main views/pages
+│ ├── images/ # Screenshots and logos
+│ ├── videos/ # Demo video
+│ ├── App.jsx
+│ ├── App.css
+│ └── ...
 ├── package.json
 └── README.md
-
 ---
 
 ## 🚀 Features
