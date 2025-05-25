@@ -11,9 +11,6 @@ locate-me/
 ├── package.json
 └── README.md
 
-<p align="center">
-  <img src="./locate-me/src/images/3.png" alt="LocateMe Logo" width="120" />
-</p>
 
 <h1 align="center">LocateMe 🌍</h1>
 <p align="center">
