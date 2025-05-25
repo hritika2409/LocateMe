@@ -8,10 +8,7 @@ locate-me/
   └── README.md
 
 <p align="center">
-  <img src="./locate-me/src/images/1.png" alt="LocateMe Logo" width="120" />
-  <img src="./locate-me/src/images/2.png" alt="LocateMe Logo" width="120" />
   <img src="./locate-me/src/images/3.png" alt="LocateMe Logo" width="120" />
-  <img src="./locate-me/src/images/4.png" alt="LocateMe Logo" width="120" />
 </p>
 
 <h1 align="center">LocateMe 🌍</h1>
@@ -20,9 +17,6 @@ locate-me/
   <i>Find professionals, creatives, and innovators in your city with an interactive map and beautiful profiles.</i>
 </p>
 
-<p align="center">
-  <img src="./locate-me/src/videos/Untitled video - Made with Clipchamp (1).gif" alt="LocateMe Demo" width="700"/>
-</p>
 
 ---
 
@@ -41,14 +35,16 @@ locate-me/
 
 | Home Page | Profile Details | Admin Dashboard |
 |-----------|----------------|-----------------|
-| ![Home](https://user-images.githubusercontent.com/674621/209445338-2e7e6e8e-7b9e-4c7c-9b1e-2e6e1e2f7e2c.png) | ![Details](https://user-images.githubusercontent.com/674621/209445339-3e7e6e8e-7b9e-4c7c-9b1e-2e6e1e2f7e2c.png) | ![Admin](https://user-images.githubusercontent.com/674621/209445340-4e7e6e8e-7b9e-4c7c-9b1e-2e6e1e2f7e2c.png) |
+| ![Home](./locate-me/src/images/1.png) | ![Details](./locate-me/src/images/2.png) | ![Admin](./locate-me/src/images/4.png) |
 
 ---
 
 ## ✨ Demo
 
-https://user-images.githubusercontent.com/674621/209445341-5e7e6e8e-7b9e-4c7c-9b1e-2e6e1e2f7e2c.mp4
 
+<p align="center">
+  <img src="./locate-me/src/videos/Untitled video - Made with Clipchamp (1).gif" alt="LocateMe Demo" width="700"/>
+</p>
 ---
 
 ## 📝 Description
